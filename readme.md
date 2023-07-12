@@ -7,7 +7,7 @@ high-dimensional geometry and manifolds and how it applies to the latest advance
 
 * **Time:** TBA
 * **Location:** TBA
-* **Instructors:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu) and Aman Shrivastava (as3ek *AT* virginia *DOT* edu)
+* **Instructors:** [Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) (ptf8v *AT* virginia *DOT* edu) and [Aman Shrivastava](https://4m4n5.github.io/) (as3ek *AT* virginia *DOT* edu)
   - Office Hours: TBA
 * **TA:** TBA
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
